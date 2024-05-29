@@ -90,6 +90,9 @@
     .container_button_menu_responsive{
         display: block;
     }
+    .gif_animado{
+        width: 300px;
+    }
 }
 
 
