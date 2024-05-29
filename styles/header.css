@@ -6,10 +6,10 @@
     box-sizing: border-box;
 }
 :root{
-    --color-1: #eb233c;
-    --color-2: #eb233a4d;
+    --color-1: #1364D3;
+    --color-2: #1363d365;
     --color-3: #000;
-    --color-4: #eb233a1a;
+    --color-4: #1363d315;
 
     --text-color-1: #ffff;
     --text-color-2: #dbdfe9;
@@ -456,23 +456,20 @@ body::-webkit-scrollbar-thumb {
     color: var(--color-1);
 
 }
-.img_card_proyect{
-    position: relative;
-    
-
-}
 .description_card_proyect{
     position: relative;
     
 }
 .container_card_proyect:nth-child(odd) .img_card_proyect{
     left: 20px;
+    position: relative;
 
 }
 
 .container_card_proyect:nth-child(even) .img_card_proyect{
     order: 1;
     left: -20px;
+
 
 
 }
@@ -490,6 +487,7 @@ body::-webkit-scrollbar-thumb {
     justify-content: left;
 
 }
+
 
 
 /*Section Mas proyectos*/
