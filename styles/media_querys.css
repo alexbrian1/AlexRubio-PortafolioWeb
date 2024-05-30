@@ -76,7 +76,7 @@
 
         margin-left: auto;
 
-        background-color: #eb233a4d;
+        background-color: var(--color-2);
     }
     .menu ul li{
         margin: 25px 0;
